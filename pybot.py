@@ -67,12 +67,7 @@ symbols = {'AACG': 0, 'AACQ': 0, 'AACQU': 0, 'AACQW': 0, 'AAL': 0, 'AAME': 0, 'A
 'UNIT': 0, 'UNTY': 0, 'UONE': 0, 'UONEK': 0, 'UPLD': 0, 'UPWK': 0, 'URBN': 0, 'URGN': 0, 'UROV': 0, 'USAK': 0, 'USAP': 0, 'USAU': 0, 'USCR': 0, 'USEG': 0, 'USIG': 0, 'USIO': 0, 'USLB': 0, 'USLM': 0, 'USMC': 0, 'USOI': 0, 'USWS': 0, 'USWSW': 0, 'USXF': 0, 'UTHR': 0, 'UTMD': 0, 'UTSI': 0, 'UVSP': 0, 'UXIN': 0, 'VALU': 0, 'VBFC': 0, 'VBIV': 0, 'VBLT': 0, 'VBTX': 0, 'VC': 0, 'VCEL': 0, 'VCIT': 0, 'VCLT': 0, 'VCNX': 0, 'VCSH': 0, 'VCTR': 0, 'VCYT': 0, 'VECO': 0, 'VEON': 0, 'VERB': 0, 'VERBW': 0, 'VERI': 0, 'VERO': 0, 'VERU': 0, 'VERX': 0, 'VERY': 0, 'VETS': 0, 'VFF': 0, 'VG': 0, 'VGIT': 0, 'VGLT': 0, 'VGSH': 0, 'VIAC': 0, 'VIACA': 0, 'VIAV': 0, 'VICR': 0, 'VIE': 0, 'VIGI': 0, 'VIOT': 0, 'VIR': 0, 'VIRC': 0, 'VIRT': 0, 'VISL': 0, 'VITL': 0, 'VIVE': 0, 'VIVO': 0, 'VJET': 0, 'VKTX': 0, 'VKTXW': 0, 'VLGEA': 0, 'VLY': 0, 'VLYPO': 0, 'VLYPP': 0, 'VMAC': 0, 'VMACU': 0, 'VMACW': 0, 'VMBS': 0, 'VMD': 0, 'VNDA': 0, 'VNET': 0, 'VNOM': 0, 'VNQI': 0, 'VOD': 0, 'VONE': 0, 'VONG': 0, 'VONV': 0, 'VOXX': 0, 'VRA': 0, 'VRAY': 0, 'VRCA': 0, 'VREX': 0, 'VRIG': 0, 'VRM': 0, 'VRME': 0, 'VRMEW': 0, 'VRNA': 0, 'VRNS': 0, 'VRNT': 0, 'VRRM': 0, 'VRSK': 0, 'VRSN': 0, 'VRTS': 0, 'VRTU': 0, 'VRTX': 0, 'VSAT': 0, 'VSDA': 0, 'VSEC': 0, 'VSMV': 0, 'VSTA': 0, 'VSTM': 0, 'VTC': 0, 'VTGN': 0, 'VTHR': 0, 'VTIP': 0, 'VTNR': 0, 'VTSI': 0, 'VTVT': 0, 'VTWG': 0, 'VTWO': 0, 'VTWV': 0, 'VUZI': 0, 'VVPR': 0, 'VWOB': 0, 'VXRT': 0, 'VXUS': 0, 'VYGR': 0, 'VYMI': 0, 'VYNE': 0, 'WABC': 0, 'WAFD': 0, 'WAFU': 0, 'WASH': 0, 'WATT': 0, 'WB': 0, 'WBA': 0, 'WBND': 0, 'WCLD': 0, 'WDAY': 0, 'WDC': 0, 'WDFC': 0, 'WEN': 0, 'WERN': 0, 'WETF': 0, 'WEYS': 0, 'WHF': 0, 'WHFBZ': 0, 'WHLM': 0, 'WHLR': 0, 'WHLRD': 0, 'WHLRP': 0, 'WIFI': 0, 'WILC': 0, 'WIMI': 0, 'WINA': 0, 'WINC': 0, 'WING': 0, 'WINS': 0, 'WINT': 0, 'WIRE': 0, 'WISA': 0, 'WIX': 0, 'WKEY': 0, 'WKHS': 0, 'WLDN': 0, 'WLFC': 0, 'WLTW': 0, 'WMG': 0, 'WMGI': 0, 'WNEB': 0, 'WOOD': 0, 'WORX': 0, 'WPRT': 0, 'WRLD': 0, 'WRTC': 0, 'WSBC': 0, 'WSBCP': 0, 'WSBF': 0, 'WSC': 0, 'WSFS': 0, 'WSG': 0, 'WSTG': 0, 'WSTL': 0, 'WTBA': 0, 'WTER': 0, 'WTFC': 0, 'WTFCM': 0, 'WTFCP': 0, 'WTRE': 0, 'WTREP': 0, 'WTRH': 0, 'WVE': 0, 'WVFC': 0, 'WVVI': 0, 'WVVIP': 0, 'WW': 0, 'WWD': 0, 'WWR': 0, 'WYNN': 0, 'XAIR': 0, 'XBIO': 0, 'XBIOW': 0, 'XBIT': 0, 'XCUR': 0, 'XEL': 0, 'XELA': 0, 'XELB': 0, 'XENE': 0, 'XENT': 0, 'XERS': 0, 'XFOR': 0, 'XGN': 0, 'XLNX': 0, 'XLRN': 0, 'XNCR': 0, 'XNET': 0, 'XOMA': 0, 'XONE': 0, 'XP': 0, 'XPEL': 0, 'XPER': 0, 'XRAY': 0, 'XSPA': 0, 'XT': 0, 'XTLB': 0, 'YGYI': 0, 'YGYIP': 0, 'YI': 0, 'YIN': 0, 'YJ': 0, 'YLCO': 0, 'YLDE': 0, 'YMAB': 0, 'YNDX': 0, 'YORW': 0, 'YRCW': 0, 'YTEN': 0, 'YTRA': 0, 'YVR': 0, 'YY': 0, 'Z': 0, 'ZAGG': 0, 'ZAZZT': 0, 'ZBRA': 0, 'ZBZZT': 0, 'ZCMD': 0, 'ZCZZT': 0, 'ZEAL': 0, 'ZEUS': 0, 'ZG': 0, 'ZGNX': 0, 'ZGYH': 0, 'ZGYHR': 0, 'ZGYHU': 0, 'ZGYHW': 0, 'ZI': 0, 'ZION': 0, 'ZIONL': 0, 'ZIONN': 0, 'ZIONO': 0, 'ZIONP': 0, 'ZIOP': 0, 'ZIXI': 0, 'ZJZZT': 0, 'ZKIN': 0, 'ZLAB': 0, 'ZM': 0, 'ZNGA': 0, 'ZNTL': 0, 'ZS': 0, 'ZSAN': 0, 'ZUMZ': 0, 'ZVO': 0, 'ZVZZC': 0, 'ZVZZT': 0, 'ZWZZT': 0, 'ZXYZ.A': 0, 'ZXZZT': 
 0, 'ZYNE': 0, 'ZYXI': 0}
 
-symbols2 = {'TEST', 0}
 
-# symbols = dict.fromkeys(AStockSym, 0)
-# symbols2 = dict.fromkeys(BStockSym, 0)
-# print(symbols)
-# print(symbols2)
 
 reddit = praw.Reddit(client_id = 'FhCZAoozfF60nQ', client_secret = 'qT_sfXUwNI5IIVgoqSAgpEKaWUo', user_agent = 'rougndraft', username = 'BrightnessShallanVin', password = 'Waterband')
 
@@ -99,9 +94,9 @@ for subreddit in subs:
         newPostWords = post.selftext.split()
         for word in newPostWords:
             sudoword = word[1:]
-            if word in symbols or word in symbols2:
+            if word in symbols:
                 mentions[word] += 1
-            if sudoword in symbols or sudoword in symbols2:
+            if sudoword in symbols:
                 print(datetime.datetime.fromtimestamp(post.created))
                 mentions[sudoword] += 1
 
@@ -111,9 +106,9 @@ for subreddit in subs:
                 newComments = comment.body.split()
                 for comment in newComments:
                     sudocom = comment[1:]
-                    if comment in symbols or comment in symbols2:
+                    if comment in symbols:
                         mentions[comment] += 1
-                    if sudocom in symbols or sudocom in symbols2:
+                    if sudocom in symbols:
                         mentions[sudocom] += 1
 
     # # TOP POSTS
@@ -121,9 +116,9 @@ for subreddit in subs:
     #     topPostWords = post.selftext.split()
     #     for word in topPostWords:
     #         sudoword = word[1:]
-    #         if word in symbols or word in symbols2:
+    #         if word in symbols:
     #             mentions[word] += 1
-    #         if sudoword in symbols or sudoword in symbols2:
+    #         if sudoword in symbols:
     #             mentions[sudoword] += 1
 
                         
@@ -132,9 +127,9 @@ for subreddit in subs:
     #             newComments = comment.body.split()
     #             for comment in newComments:
     #                 sudocom = comment[1:]
-    #                 if comment in symbols or comment in symbols2:
+    #                 if comment in symbols:
     #                     mentions[comment] += 1
-    #                 if sudocom in symbols or sudocom in symbols2:
+    #                 if sudocom in symbols:
     #                     mentions[sudocom] += 1
   
     # # HOT POSTS
@@ -142,9 +137,9 @@ for subreddit in subs:
     #     hotPostWords = post.selftext.split()
     #     for word in hotPostWords:
     #         sudoword = word[1:]
-    #         if word in symbols or word in symbols2:
+    #         if word in symbols:
     #             mentions[word] += 1
-    #         if sudoword in symbols or sudoword in symbols2:
+    #         if sudoword in symbols:
     #             mentions[sudoword] += 1
 
                         
@@ -153,9 +148,9 @@ for subreddit in subs:
     #             newComments = comment.body.split()
     #             for comment in newComments:
     #                 sudocom = comment[1:]
-    #                 if comment in symbols or comment in symbols2:
+    #                 if comment in symbols:
     #                     mentions[comment] += 1
-    #                 if sudocom in symbols or sudocom in symbols2:
+    #                 if sudocom in symbols:
     #                     mentions[sudocom] += 1
 
                     
