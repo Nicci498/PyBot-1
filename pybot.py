@@ -97,7 +97,10 @@ for subreddit in subs:
             if word in symbols:
                 mentions[word] += 1
             if sudoword in symbols:
-                print(datetime.datetime.fromtimestamp(post.created))
+                # uncomment below for dates
+                # print(datetime.datetime.fromtimestamp(post.created))
+                # uncomment below for links
+                # print(post.shortlink)
                 mentions[sudoword] += 1
 
                         
